@@ -33,3 +33,5 @@ $ git clone https://github.com/Elegycloud/clash-for-linux-backup.git
 或者使用
 
 [linux如何上外网?ubuntu系统如何进行科学上网？看这一篇就够了！ - 自由鸟 (freebrid.com)](https://freebrid.com/index.php/2021/06/28/linux/)
+
+## yazi文件管理
