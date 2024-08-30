@@ -22,6 +22,12 @@ sudo apt-get update
 sudo apt-get upgrade
 ~~~
 
+### chsrc换源
+
+项目地址：[RubyMetric/chsrc: chsrc 全平台通用换源工具与框架. Change Source for every software on every platform from the command line. (github.com)](https://github.com/RubyMetric/chsrc)
+
+
+
 ## 加速
 
 clash for Linux
@@ -37,3 +43,5 @@ $ git clone https://github.com/Elegycloud/clash-for-linux-backup.git
 ## yazi文件管理
 
 ## PPA可以当作额外的包管理工具
+
+## 
