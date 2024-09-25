@@ -44,4 +44,6 @@ $ git clone https://github.com/Elegycloud/clash-for-linux-backup.git
 
 ## PPA可以当作额外的包管理工具
 
-## 
+## Git
+
+## 包管理工具：[X-CMD | 开源轻量级 POSIX 脚本，用于管理工具 (500+) 和提供经典命令扩展](https://cn.x-cmd.com/)
